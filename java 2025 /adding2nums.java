@@ -4,7 +4,10 @@ int a =2;
 int b=3;
 System.out.println("1. Result= "+(a+b));
 System.out.println("2. Result= " + a+b);
+
 System.out.println("3. Result= " + add(23,5));
+System.out.println(a+b+" =  4. Result ");
+
 
     }
     public static int add(int a,int b){

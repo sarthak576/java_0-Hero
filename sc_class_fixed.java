@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// good logic building ----
 public class sc_class_fixed {
 
     public static void main(String[] args) {

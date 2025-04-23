@@ -15,4 +15,8 @@ public class add2numbsusingfn {
 }
 // Ans ->
 // error ---
-// a & b is not initialized 
+// a & b is not initialized
+
+// reason {*}
+// a and b were declared but had no value.
+// Trying to print an uninitialized variable causes a `compilation error` in Java.
